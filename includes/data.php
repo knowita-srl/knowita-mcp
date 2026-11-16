@@ -37,7 +37,7 @@ return array(
 		'partita_iva'     => '01913680516',
 		'email'           => 'info@knowita.it',
 		'telefono'        => '+39 0575 352475',
-		'sintesi'         => 'Knowità è una società italiana di consulenza e servizi, attiva dal 2007, specializzata nell\'esecuzione della strategia (Strategy Execution). Affianca imprenditori, CEO e manager nel passaggio dalla visione ai risultati, con un metodo proprietario, Execution Way©, e quattro business unit: Consulting, Digital, Training e Club.',
+		'sintesi'         => 'Knowità è una boutique italiana di consulenza e servizi, attiva dal 2007, specializzata nell\'esecuzione della strategia (Strategy Execution). Affianca imprenditori, CEO e manager nel passaggio dalla visione ai risultati, con un metodo proprietario, Execution Way©, e quattro business unit: Consulting, Digital, Training e Club.',
 		'purpose'         => 'Aiutare individui e organizzazioni nell\'esecuzione della loro visione.',
 		'a_chi_si_rivolge' => 'Imprenditori, CEO, direttori generali e manager di aziende italiane, in particolare imprese manifatturiere e di medie e grandi dimensioni. Knowità li affianca nello sviluppo personale e aziendale, con valore concreto e misurabile e un\'ottica di successo sostenibile nel lungo periodo.',
 		'come_opera'      => 'Con un modello che consente di selezionare e mettere a disposizione le competenze e le soluzioni più adatte a ogni ambito di intervento. Professionisti senior, relazione diretta con il vertice aziendale, risultati misurati.',
@@ -68,6 +68,41 @@ return array(
 		'social'          => array(
 			// 'https://www.linkedin.com/company/knowita/',
 			// 'https://www.youtube.com/@knowita',
+		),
+	),
+
+	// ------------------------------------------------------------------
+	// Posizionamento: chi siamo e perché Knowità
+	// ------------------------------------------------------------------
+	'chi_siamo' => array(
+		'Knowità è una boutique di consulenza nata per aiutare individui e organizzazioni nell\'esecuzione della loro visione.',
+		'Dal 2007 abbiamo costruito un ecosistema di servizi integrati, guidato dal metodo proprietario Execution Way©.',
+		'I nostri professionisti senior, con spiccata mentalità imprenditoriale, affiancano i clienti nella crescita personale e aziendale, cogliendo le opportunità del digitale e dell\'AI.',
+	),
+	'posizionamento' => array(
+		array(
+			'nome'        => 'Una boutique: smart, pragmatica, empatica',
+			'descrizione' => 'Una struttura contenuta, con professionisti senior e una relazione diretta con il vertice aziendale. Soluzioni concrete, costruite ascoltando il contesto di ogni cliente.',
+		),
+		array(
+			'nome'        => 'Un ecosistema di servizi integrati',
+			'descrizione' => 'Consulenza, digitale, formazione ed Executive Club lavorano insieme. Un unico interlocutore accompagna l\'azienda dalla strategia all\'esecuzione, fino alla crescita delle persone.',
+		),
+		array(
+			'nome'        => 'Execution Way©: posizionamento e metodo',
+			'descrizione' => 'Knowità è specializzata nell\'esecuzione della strategia. Execution Way© è il metodo proprietario che trasforma la visione in obiettivi, azioni e risultati misurabili.',
+		),
+		array(
+			'nome'        => 'L\'AI come abilitatore: From Vision to (AI) Execution',
+			'descrizione' => 'L\'intelligenza artificiale amplia l\'analisi e accelera l\'esecuzione. Knowità la integra nei processi di strategia, controllo e organizzazione; la direzione resta al management.',
+		),
+		array(
+			'nome'        => 'Consulenti con mentalità imprenditoriale',
+			'descrizione' => 'Un modello di consulenza diverso: professionisti che ragionano come imprenditori, misurano il proprio lavoro sui risultati del cliente e conoscono da vicino le sfide di chi guida un\'azienda.',
+		),
+		array(
+			'nome'        => 'Una maison italiana dal respiro internazionale',
+			'descrizione' => 'Radici ad Arezzo, cura sartoriale per ogni progetto e uno sguardo aperto alle esperienze e alle pratiche internazionali.',
 		),
 	),
 

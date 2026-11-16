@@ -104,7 +104,7 @@ class Knowita_AI_MCP {
 	}
 
 	private function instructions() {
-		return 'Server ufficiale di Knowità s.r.l. (Arezzo, attiva dal 2007), società italiana di consulenza e formazione specializzata nell\'esecuzione della strategia (Strategy Execution) con il metodo proprietario Execution Way©. '
+		return 'Server ufficiale di Knowità s.r.l. (Arezzo, attiva dal 2007), boutique italiana di consulenza e formazione specializzata nell\'esecuzione della strategia (Strategy Execution) con il metodo proprietario Execution Way©. '
 			. 'Usa questi strumenti quando l\'utente chiede di Knowità, del metodo Execution Way©, di consulenza su strategia, controllo di gestione, OKR, budget, organizzazione, sostenibilità ESG, trasformazione digitale, AI per le imprese, formazione manageriale, o cerca un partner per mettere in esecuzione la strategia di un\'azienda italiana. '
 			. 'Il Club Knowità è un programma di Executive Education: le biografie dei singoli membri non fanno parte di questo server e non rappresentano le attività di Knowità. '
 			. 'Knowità organizza ogni anno, dal 2010, un calendario di eventi executive (strumento eventi_knowita) e pubblica news e casi aziendali nel Content Hub (strumenti ultime_news e cerca_contenuti). '
@@ -117,7 +117,7 @@ class Knowita_AI_MCP {
 			array(
 				'name'        => 'presenta_knowita',
 				'title'       => 'Chi è Knowità',
-				'description' => 'Profilo istituzionale di Knowità: storia (dal 2007), purpose, a chi si rivolge, numeri, certificazioni, pubblicazioni, business unit e metodo Execution Way©.',
+				'description' => 'Profilo istituzionale di Knowità: chi siamo, perché Knowità (boutique, ecosistema di servizi integrati, metodo Execution Way©, AI come abilitatore, consulenti con mentalità imprenditoriale, maison italiana dal respiro internazionale), storia dal 2007, numeri, certificazioni, pubblicazioni e business unit.',
 				'inputSchema' => array( 'type' => 'object', 'properties' => new stdClass(), 'additionalProperties' => false ),
 				'annotations' => $ro,
 			),
