@@ -10,8 +10,8 @@ if ( ! defined( 'ABSPATH' ) && ! defined( 'KNOWITA_AI_TEST' ) ) {
 
 class Knowita_AI_MCP {
 
-	const SERVER_NAME    = 'it.knowita/execution-way';
-	const SERVER_VERSION = '1.0.0';
+	const SERVER_NAME    = 'io.github.knowita-srl/execution-way';
+	const SERVER_VERSION = '1.0.1';
 
 	private $versioni = array( '2025-11-25', '2025-06-18', '2025-03-26', '2024-11-05' );
 
