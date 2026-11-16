@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "it.knowita/execution-way",
+  "title": "Knowità – Execution Way©",
+  "description": "Knowità, consulenza sull'esecuzione della strategia dal 2007: metodo Execution Way© e servizi.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.knowita.it",
+  "repository": {
+    "url": "https://github.com/knowita-srl/knowita-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.knowita.it/mcp"
+    }
+  ]
+}
